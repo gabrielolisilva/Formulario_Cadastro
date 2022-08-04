@@ -155,11 +155,61 @@
 }
 
 #mainQuadro_Corpo{
-    padding-left: 4em;
-    padding-top: 2.1em;
+    display: flex;
+
+    padding-left: 2.6em;
+    padding-top: 3em;
 }
 
 #mainQuadro_Corpo p{
     padding: .5em 0em;
 }
 
+#dados1{
+    display: flex;
+    padding-top: 1.5em;
+}
+
+#dados1 p{
+    padding-right: 1em;
+}
+
+#tEstado{
+    margin-left: 2em;
+}
+
+#dados2{
+    display: flex;
+    padding-top: 1.5em;
+}
+
+#dados2 p{
+    padding-right: 1em;
+}
+
+#Tcep{
+    margin-left: 2em;
+}
+
+#dados3{
+    display: flex;
+    margin-top: 1.6em;
+}
+
+#dadosGenero{
+    padding-right: 1em;
+}
+
+.dadosSexo{
+    margin: 0em 1em;
+}
+
+#ilustração img{
+    width: 23em;
+    padding-left: 5em;
+}
+
+#Registrar{
+    margin-top: 2em;
+    width: 7em;
+}
