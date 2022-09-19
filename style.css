@@ -14,7 +14,7 @@
 #container{
     background-color: #e6a748;
     max-width: 310px;
-    height: 100vh;
+    height: 800px;
     border-radius: 20px 0px 0px 20px;
 }
 
@@ -126,7 +126,7 @@
 
 #mainCorpo{
     background-color: rgba(179, 168, 24, 0.274);
-    height: 92.1vh;
+    height: 728px;
     border-radius: 0px 0px 20px 0px;
 }
 
@@ -139,7 +139,7 @@
 #main_Quadro{
     background-color: white;
     width: 65vw;
-    height: 70vh;
+    height: 500px;
     margin-left: 3.9em;
     margin-top: .7em;
 }
